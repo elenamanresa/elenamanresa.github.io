@@ -31,7 +31,14 @@ permalink: /research/
 **Adversarial Inference Is Efficient** (with Tetsuya Kaji Guillaume A Pouliot). *AEA Papers and Proceedings* 111, 621-625 \
 <small> &bull; [Published version](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA15238) </small>
 
+**An adversarial approach to structural estimation** (with Tetsuya Kaji Guillaume Pouliot). \
+<small> &bull; [Published version](https://arxiv.org/abs/2007.06169) </small>
 
+**A distributional framework for matched employer employee data** (with Stéphane Bonhomme Thibaut Lamadon). *Econometrica* 87 (3), 699-739 \
+<small> &bull; [Published version](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA15722) </small>
+
+**Grouped patterns of heterogeneity in panel data** (with Stéphane Bonhomme) *Econometrica 83* (3), 1147-1184 \
+<small> &bull; [Published version](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA11319) </small>
 
 
 
