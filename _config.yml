@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Elena Manresa"
+title                    : "Elena Manresa      "
 title_separator          : "-"
-name                     : &name "Elena Manresa"
+name                     : &name "Elena Manresa      "
 description              : &description "Associate Professor at New York university"
 url                      : https://elenamanresa.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
