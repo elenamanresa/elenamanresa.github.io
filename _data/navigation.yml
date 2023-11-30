@@ -2,7 +2,7 @@
 main:
 
   - title: "CV"
-    url: https://laibamehnaz.github.io/elenamanresa.github.io/files/CV.pdf
+    url: /files/CV.pdf
     
   - title: "Research"
     url: /research/
