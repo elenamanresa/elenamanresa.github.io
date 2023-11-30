@@ -82,7 +82,7 @@ analytics:
 author:
   name             : #"Elena Manresa"
   avatar           : "ElenaHeadShot.png"
-  bio              : "Associate Professor at New York University"
+  bio              : #"Associate Professor at New York University"
   location         : "New York"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=XKaQPxwAAAAJ&hl=en"
