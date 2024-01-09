@@ -77,7 +77,7 @@
   height: 50px;
 
   @include breakpoint($large) {
-    display: block;
+    display: inline-block;
     width: auto;
     height: auto;
   }
