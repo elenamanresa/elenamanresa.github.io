@@ -5,7 +5,7 @@ permalink: /research/
 
 ## Working papers
 
-**Spectral and post-spectral estimators for grouped panel data models** (with Denis Chetverikov). 2022. \
+**Spectral and post-spectral estimators for grouped panel data models** (with Denis Chetverikov). 2022. *R&R Restud* \
 <small> &bull; [Working paper](https://arxiv.org/abs/2212.13324) </small>
 
 **Adversarial Method of Moments** (with Ignacio Cigliutti). 2022. \
