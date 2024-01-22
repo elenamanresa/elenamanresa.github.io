@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 \
-I am Associate Professor at New York University.
+I am an Associate Professor of Economics at New York University.
 
 - [CV](files/CV.pdf)
 
