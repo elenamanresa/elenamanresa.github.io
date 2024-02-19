@@ -21,7 +21,7 @@ permalink: /research/
 
 **Adversarial BLP** (with Chris Conlon, Ian Kim, and Shangwen Li)
 
-**Health Inequality and Health Types** (with Margherita Borella, Francisco Bullano, Mariacristina De Nardi, and Benjamin Krueger).
+**Health Inequality and Health Types** (with Margherita Borella, Francisco Bullano, Mariacristina De Nardi, and Benjamin Krueger)
 
 ## Publications
 
